@@ -1,0 +1,8 @@
+Account#            Type                First Name          Last Name         Balance       Interest
+110                 C                   Bugs                Bunny             2370.33           9.83
+111                 S                   Yosimite            Sam                461.51           2.51
+112                 CD                  Pink                Panther           2360.28           9.28
+113                 C                   Charlie             Brown              467.57           1.57
+118                 C                   Wiley               Coyote            -100.41          -0.41
+119                 C                   Daffy               Duck               200.83           0.83
+1115                S                   Louis               Lawns             3913.65          13.65

@@ -1,0 +1,9 @@
+Parse error in record: 112,1115,,,6/5/2024,TRANSFER,150 - Transfer account does not exist
+Parse error in record: 112,CD,Pink,Panther,6/7/2024,WITHDRAWAL,287 - Withdrawal already taken for this certificate
+Parse error in record: 1115,S,Louis,Lawns,6/8/2024,DEPOSIT,500 - Account does not exist
+Parse error in record: 112,CD,Pink,Panther,6/9/2024,WITHDRAWAL,372 - Withdrawal already taken for this certificate
+Parse error in record: 119,110,,,6/10/2024,TRANSFER,350 - Insufficient funds
+Parse error in record: 112,CD,Pink,Panther,6/16/2024,WITHDRAWAL,190 - Withdrawal already taken for this certificate
+Parse error in record: ,C,Bubba,Wubba,6/16/2024,NEW,915 - For input string: ""
+Parse error in record: 113,C,Charlie,Brown,6/17/2024,WITHDRAWAL,389 - Withdrawal amount is greater than current account balance
+Parse error in record: 112,119,,,6/19/2024,TRANSFER,200 - Withdrawal already taken for this certificate
